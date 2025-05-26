@@ -6,9 +6,9 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ## Objectives
 
-1. **Set Up a Retail Sales Database**  
-   Create and populate a retail sales database using the provided sales data.
-
+1. **Set Up a Retail Sales Database:** Create and populate a retail sales database using the provided sales data.
+ 
+   
 2. **Data Cleaning**  
    Identify and remove any records containing missing or null values to ensure data integrity.
 
